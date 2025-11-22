@@ -1,5 +1,7 @@
 Sample Format of CSV File to make it work
+
 Table Header
+
 part_number | image_url | image_url_1 | image_url_1 | and so on
 
 
